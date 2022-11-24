@@ -1,3 +1,4 @@
+# This is a simple terraform script to Create an EC2 Instance
 terraform {
   required_providers {
     aws = {
